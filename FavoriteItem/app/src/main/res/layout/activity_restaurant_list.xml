@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#F2EBD9"
+
+    android:orientation="vertical"
+    tools:context="com.example.chenrui.favoriteitem.RestaurantListActivity">
+
+    <TextView
+        android:text="Restaurant"
+        android:textColor="#F3BB43"
+        android:background="#434343"
+        android:textSize="24sp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragment_list_container">
+    </RelativeLayout>
+
+</LinearLayout>
+
+
