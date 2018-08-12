@@ -1,15 +1,15 @@
 # RestaurantNearby
 an Android App for users to discover the Restaurants nearby 
 
-搜索界面  
+search for restaurants  
 <img src="https://github.com/developerChenRui/RestaurantNearby/blob/master/serach.png" width="33%" height="40%">    
 
 
-餐馆列表界面  
+list of restaurants  
 <img src="https://github.com/developerChenRui/RestaurantNearby/blob/master/phone_result.png" width="33%" height="40%">    
 
-地图界面    
+show restaurants in map    
 <img src="https://github.com/developerChenRui/RestaurantNearby/blob/master/phone_map.png" width="33%" height="50%">    
 
-适配平板    
+fit for pad    
 <img src="https://github.com/developerChenRui/RestaurantNearby/blob/master/pad_result.png" width="50%" height="70%">    
